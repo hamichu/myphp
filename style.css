@@ -1,0 +1,63 @@
+﻿table{
+	border:2px solid lightblue;
+	width:500px;
+	padding:2px; 
+	margin-left: auto;
+	margin-right: auto;
+}
+
+tr{
+	padding:4px; 
+	text-align:center;
+	border:2px solid lightblue;
+}
+
+td{
+	padding:4px; 
+	text-align:center;
+	border:2px solid lightblue;
+}
+
+th{
+	padding:4px; 
+	text-align:center;
+	border:2px solid lightblue;
+}
+
+.center{
+	text-align:center;
+}
+
+.italic{
+	font-style:italic;
+}
+
+.verse{
+	text-align:center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.first{
+	background-color:#3333DD;
+	text-align:center;
+}
+
+.second{
+	background-color:#333399;
+	text-align:left;
+}
+
+.third{
+	background-color:lightblue;
+	text-align:left;
+}
+
+.left{
+	float:left;
+	width:100px;
+}
+
+#test{
+	color:red;
+}
